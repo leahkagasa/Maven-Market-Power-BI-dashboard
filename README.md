@@ -61,6 +61,10 @@ MavenMarketDashboard.pbix
 README.md
 (Screenshots embedded directly in README)
 
+#PowerBI #DAX #DataModeling #BusinessIntelligence #Retail #Analytics #DashboardDesign
+
+
+
 
 
 
