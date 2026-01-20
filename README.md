@@ -63,6 +63,11 @@ README.md
 
 #PowerBI #DAX #DataModeling #BusinessIntelligence #Retail #Analytics #DashboardDesign
 
+**How to Use This Dashboard**  
+1. Download the `.pbix` file from this repository  
+2. Open it in Power BI Desktop  
+3. Interact with the slicers, KPIs, and visuals to explore the data  
+
 
 
 
